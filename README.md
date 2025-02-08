@@ -2,7 +2,7 @@
 <htmL>
 <head>
 <body>
-<p id ="myText">Todo - Java
+<p id ="myText" align="center">Todo - Java
 Introducing Todo-Java application crafted with care in Java. This user-friendly GUI not only enhances your productivity but also adds a touch of elegance as you effortlessly organize your projects and tackle your daily tasks. Elevate your planning experience with Todo-java! </p>
 <div>
   <img align="center" width="700" height="400" src="https://github.com/Matekotw/scr-todo-java/blob/main/1a.png">
