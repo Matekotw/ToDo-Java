@@ -8,11 +8,11 @@ Introducing Todo-Java application crafted with care in Java. This user-friendly 
 
 <p1 id="myText2"> Requirements </p1>
 <br>
-<p2 id="myText3"> -io.github.palexdev:materialfx:11.17.0  </p2>
+<p2 id="myText3"> - io.github.palexdev:materialfx:11.17.0  </p2>
 <br>
-<p3 id="myText4"> -java 21  </p2> 
+<p3 id="myText4"> - java 21  </p2> 
 <br>
-<p4 id="myText5"> -gradle  </p2> 
+<p4 id="myText5"> - gradle  </p2> 
 <br>
 <br>
 <div>
